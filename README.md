@@ -17,7 +17,6 @@ Sempre con qualche progetto per le mani.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://daniloscimone.me)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yk.daniloscimone/)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/playlist/0XL20na21ZaY15pzNBFNMi?si=m4hyIeteRkmgBf8RQqNP8w)
 
 ---
 

@@ -2,7 +2,7 @@
 
 💻 **Maker | Sviluppatore | Appassionato di Sicurezza**
 
-Mi affascina capire come funzionano i sistemi, risolvere problemi complessi e costruire cose nuove con la tecnologia. Che si tratti di bit o di hardware, la mia missione è smontare, capire e ricostruire.
+Mi affascina capire come funzionano i sistemi, risolvere problemi complessi e costruire cose nuove con la tecnologia. Che si tratti di bit o di hardware, la mia missione è smontare, capire, migliorare e ricostruire.
 
 ---
 

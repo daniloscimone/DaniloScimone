@@ -3,6 +3,7 @@
 * **🚀 Curiosity and Versatility:** Always looking for the next technological challenge.
 * **💻 Developer | Cybersecurity:** Programming, Hardware & Systems, Networks & Security.
 * **🧱 Creative Projects:** Creator of [thewalloflinks.com](https://thewalloflinks.com), a digital space where anyone can purchase and customize a virtual "brick."
+* **📈 Digital Services:** Founder of [Nexwa](https://nexwa.store), an SMM panel offering followers, likes, views, and growth services across multiple social platforms.
 * **🎧 Spotify on 24/7:** Music is the fuel of my code.
 
 ---

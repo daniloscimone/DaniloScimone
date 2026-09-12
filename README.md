@@ -14,8 +14,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://daniloscimone.me)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yk.daniloscimone/)
 
-- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects
 
 1. Founder of [Nexwa](https://nexwa.store/)

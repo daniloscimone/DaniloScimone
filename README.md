@@ -1,17 +1,44 @@
-# What wind brings you here? this is me! 👇
+# Hi... I'm Danilo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-* **🚀 Curiosity and Versatility:** Always looking for the next technological challenge.
-* **💻 Developer | Cybersecurity:** Programming, Hardware & Systems, Networks & Security.
-* **🧱 Creative Projects:** Creator of [thewalloflinks.com](https://thewalloflinks.com), a digital space where anyone can purchase and customize a virtual "brick."
-* **📈 Digital Services:** Founder of [Nexwa](https://nexwa.store), an SMM panel offering followers, likes, views, and growth services across multiple social platforms.
-* **🎧 Spotify on 24/7:** Music is the fuel of my code.
+## What wind brings you here? this is me! 👇
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+- 👨‍🎓 I'm a **IT Engineering Student**
+- 🔭 I’m currently working on [NEXWA](https://nexwa.store/) (My Store Project)
 
 ---
-### 🌍 This is where you can find me
+* **🚀 Curiosity and Versatility:** Always looking for the next technological challenge.
+* **💻 Developer | Cybersecurity:** Programming, Hardware & Systems, Networks & Security.
+* **🎧 Spotify on 24/7:** Music is the fuel of my code.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://daniloscimone.me)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yk.daniloscimone/)
 
----
-**If I had to represent myself with one sentence it would be this one:**
-> _“Non inseguo scorciatoie: entro nel sistema e ne riscrivo le regole.” ⚡_
+[- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
+ 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+
+ 1. Founder of [Nexwa](https://nexwa.store/)
+ 2. Creative Progects: [The Wall Of Links](https://thewalloflinks.com/)
+ 3. In collaboration with: [Shodan V3](https://shodan.mysellauth.com/$0)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+**Software Development:**
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,md,git,github,vscode&perline=14)](#)
+
+**Systems & Hardware:**
+
+[![Skills](https://skillicons.dev/icons?i=arduino,linux,arch,debian,ubuntu,apple,windows,&perline=14)](#)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+ [![Danilo github stats](https://github-readme-mwendwa.vercel.app/api?username=daniloscimone&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff$0)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=daniloscimone&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Danilo current streak](https://streak-stats.demolab.com/?user=danilo&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

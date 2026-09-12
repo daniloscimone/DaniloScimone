@@ -25,10 +25,10 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
 
 ### **Software Development:**
-[![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,md,git,github,vscode&perline=14)](#)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,python,c,cpp,swift,rust,java,mysql,md&perline=14)](#)
 
 ### **Systems & Hardware:**
-[![Skills](https://skillicons.dev/icons?i=arduino,linux,arch,debian,ubuntu,apple,windows&perline=14)](#)
+[![Skills](https://skillicons.dev/icons?i=arduino,git,github,vscode,linux,arch,debian,ubuntu,apple,windows&perline=14)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 

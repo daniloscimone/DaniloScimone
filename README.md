@@ -7,6 +7,7 @@
 * 🔭 I’m currently working on [**NEXWA**](https://nexwa.store/) (My SMM Panel Project)
 * **🎧 Spotify on 24/7:** Music is the fuel of my code.
 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://daniloscimone.me)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yk.daniloscimone/)
 

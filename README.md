@@ -16,6 +16,7 @@
 1. Founder of [Nexwa](https://nexwa.store/)
 2. Creative Projects: [The Wall Of Links](https://thewalloflinks.com/)
 3. In collaboration with: [Shodan V3](https://shodan.mysellauth.com/)
+4. Tweak Spotify for iOS: [Scimonetify](https://scimonetify.site/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
